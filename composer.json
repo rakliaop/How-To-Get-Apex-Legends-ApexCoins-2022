@@ -1,0 +1,8 @@
+{
+    "name": "apexcoins-apexlegends/apexlegends-apexcoins",
+    "description": "Link Below for ApexCoins in Apex Legends 2022 >>>",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
